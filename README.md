@@ -1,6 +1,6 @@
 # Bubble Shooter
 
-Game made just for fun ant pratice in python and pygame library
+Game made just for fun and pratice in python and pygame library
 
 ## HOW TO USE
 Needs the module:
